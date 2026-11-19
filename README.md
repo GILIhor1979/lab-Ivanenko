@@ -1,2 +1,3 @@
 Мета: відпрацювати цикл «змінити → переглянути → додати → зафіксувати».# Lab Ivanenko
 Published on GitHub - четвер
+Edited on GitHub - четвер 
